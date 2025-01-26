@@ -31,3 +31,7 @@ I used React.js framework to bootstrap this project because of the below functio
 # Installation and Running
 
 git clone or pull the project using your terminal, open the project folder on your local laptop in a code editor and run "npm start" in your editors terminal.
+
+
+![image](https://github.com/user-attachments/assets/4424949c-4385-4e18-a115-084de366e442)
+
