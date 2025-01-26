@@ -2,9 +2,7 @@
 
 A BucketList application which you can use to set activities or task you want to do in the future, or you have dont in the past.
 
-**End Result**
 
-Click Link Here : https://bucketlistapp-by-eniola.netlify.app/
 # Description
 
 **Details**
@@ -19,16 +17,6 @@ The application takes on three input from the user in a form which are :
     - Completed
     - Not Completed
     - Failed
-
-![Form](https://github.com/Eniola-Codes/Bucket-List-App/blob/main/src/asset/bucketform.png?raw=true)
-
-The form comes with a validation, if you input an invalid value, you will get an error message in a modal and the form data will not be processed. 
-
-![Error messsage](https://github.com/Eniola-Codes/Bucket-List-App/blob/main/src/asset/bucketerror.png?raw=true)
-
-On the other hand, when you submit a valid value,an item is added to the bucket list
-
-![Bucket list item](https://github.com/Eniola-Codes/Bucket-List-App/blob/main/src/asset/bucketitem.png?raw=true) 
 
 **Technologies**
 
