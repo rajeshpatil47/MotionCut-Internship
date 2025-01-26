@@ -35,3 +35,4 @@ git clone or pull the project using your terminal, open the project folder on yo
 
 ![image](https://github.com/user-attachments/assets/4424949c-4385-4e18-a115-084de366e442)
 
+![image](https://github.com/user-attachments/assets/ed8dd7ed-86ca-479b-b027-3a98699c4e61)
